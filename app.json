@@ -1,10 +1,10 @@
 {
-    "name": "Jarvis",
+    "name": "Boykaxd",
     "version":"2.5.0",
     "description": "Jarvis Multi Device whatsapp bot",
-    "logo": "https://graph.org/file/58ea74675af7836579a3a.jpg",
+    "logo": "https://i.ibb.co/7BjSBVP/jpg.jpg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://TanyaMashamba01/Jarvis",
     "website": "https://github.com/Loki-Xer/Jarvis",
     "success_url": "/",
     "stack": "container",
@@ -12,7 +12,7 @@
         "BOT_INFO": {
             "description": "botname;ownername;image url",
             "required": true,
-            "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://graph.org/file/1506e5842805b0968c5cf.mp4"
+            "value":"ᴊᴀʀᴠɪꜱ;☘🆃︎🅴︎🅻︎🅺︎🅸︎🅽︎🅶︎☘;https://files.catbox.moe/vpnqp7.mp3"
         },
         "MENU_FONT": {
             "description": "type;plugin name, have to be less than 35",
@@ -22,7 +22,7 @@
         "AUDIO_DATA": {
             "description": "audio package name",
             "required": true,
-            "value":"ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://graph.org/file/58ea74675af7836579a3a.jpg"
+            "value":"ʟᴏᴋɪ-xᴇʀ;☘🆃︎🅴︎🅻︎🅺︎🅸︎🅽︎🅶︎☘;https://files.catbox.moe/vpnqp7.mp3"
         },
         "WARN_COUNT": {
             "description": "warn count",
@@ -32,7 +32,7 @@
         "MEDIA_DATA": {
             "description": "media data that uses in list",
             "required": true,
-            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://graph.org/file/58ea74675af7836579a3a.jpg"
+            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;*https://i.ibb.co/tp3jnw3s/jpg.jpg*"
         },
         "HANDLER": {
             "description": "handler for bot. all so can be null or false",
@@ -64,7 +64,7 @@
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"4915252819677"
+            "value":"263716729222"
         },
         "ALLWAYS_ONLINE": {
             "description": "show bot number last seen as online",
